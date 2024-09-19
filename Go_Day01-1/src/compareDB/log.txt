@@ -1,0 +1,96 @@
+{[{Red Velvet Strawberry Cake 45 min [{Flour 2 mugs} {Strawberries 8 } {Coffee Beans 2.5 tablespoons} {Cinnamon 1 }]} {Moonshine Muffin 30 min [{Brown sugar 1 mug} {Blueberries 1 mug}]}]}
+<DataJSON>
+    <Cake>
+        <Name>Red Velvet Strawberry Cake</Name>
+        <Time>45 min</Time>
+        <Ingredients>
+            <IngredientName>Flour</IngredientName>
+            <IngredientCount>2</IngredientCount>
+            <Ingredient_unit>mugs</Ingredient_unit>
+        </Ingredients>
+        <Ingredients>
+            <IngredientName>Strawberries</IngredientName>
+            <IngredientCount>8</IngredientCount>
+            <Ingredient_unit></Ingredient_unit>
+        </Ingredients>
+        <Ingredients>
+            <IngredientName>Coffee Beans</IngredientName>
+            <IngredientCount>2.5</IngredientCount>
+            <Ingredient_unit>tablespoons</Ingredient_unit>
+        </Ingredients>
+        <Ingredients>
+            <IngredientName>Cinnamon</IngredientName>
+            <IngredientCount>1</IngredientCount>
+            <Ingredient_unit></Ingredient_unit>
+        </Ingredients>
+    </Cake>
+    <Cake>
+        <Name>Moonshine Muffin</Name>
+        <Time>30 min</Time>
+        <Ingredients>
+            <IngredientName>Brown sugar</IngredientName>
+            <IngredientCount>1</IngredientCount>
+            <Ingredient_unit>mug</Ingredient_unit>
+        </Ingredients>
+        <Ingredients>
+            <IngredientName>Blueberries</IngredientName>
+            <IngredientCount>1</IngredientCount>
+            <Ingredient_unit>mug</Ingredient_unit>
+        </Ingredients>
+    </Cake>
+</DataJSON>
+{
+    "Cake": [
+        {
+            "Name": "Red Velvet Strawberry Cake",
+            "Stovetime": "40 min",
+            "Ingredients": {
+                "Item": [
+                    {
+                        "Itemname": "Flour",
+                        "Itemcount": "3",
+                        "Itemunit": "cups"
+                    },
+                    {
+                        "Itemname": "Vanilla extract",
+                        "Itemcount": "1.5",
+                        "Itemunit": "tablespoons"
+                    },
+                    {
+                        "Itemname": "Strawberries",
+                        "Itemcount": "7",
+                        "Itemunit": ""
+                    },
+                    {
+                        "Itemname": "Cinnamon",
+                        "Itemcount": "1",
+                        "Itemunit": "pieces"
+                    }
+                ]
+            }
+        },
+        {
+            "Name": "Blueberry Muffin Cake",
+            "Stovetime": "30 min",
+            "Ingredients": {
+                "Item": [
+                    {
+                        "Itemname": "Baking powder",
+                        "Itemcount": "3",
+                        "Itemunit": "teaspoons"
+                    },
+                    {
+                        "Itemname": "Brown sugar",
+                        "Itemcount": "0.5",
+                        "Itemunit": "cup"
+                    },
+                    {
+                        "Itemname": "Blueberries",
+                        "Itemcount": "1",
+                        "Itemunit": "cup"
+                    }
+                ]
+            }
+        }
+    ]
+}
